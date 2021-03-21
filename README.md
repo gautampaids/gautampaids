@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gautampaids
+- 👋 Hi, I’m @Gautam Pai
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Flask, Django and MLOps
 - 🌱 I’m currently learning GANs and MLOps
 - 💞️ I’m looking to collaborate on projects involving Data Science
